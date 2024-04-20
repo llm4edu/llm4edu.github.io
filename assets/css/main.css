@@ -198,6 +198,17 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+/* main.css */
+.custom-table th:nth-child(7), .custom-table td:nth-child(7) {
+    width: 42% !important;
+}
+
+.custom-table th, .custom-table td {
+    font-size: smaller;
+}
+
+/* Add other styles as needed */
+
 /* Container */
 
 	.container {
